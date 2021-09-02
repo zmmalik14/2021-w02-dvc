@@ -1,0 +1,8 @@
+dvc
+sklearn
+pandas
+numpy
+PyYAML
+scikit-learn
+joblib
+numpyencoder
